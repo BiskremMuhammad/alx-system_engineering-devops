@@ -1,1 +1,0 @@
-ALXSE DevOps Shell practices
