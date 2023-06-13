@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z}"\n" | gre -v '00'
+echo -e {a..z}{a..z}"\n" | grep -v 'oo'
